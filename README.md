@@ -1,6 +1,6 @@
 # Oyun Geliştirme Yolu
 > Oyun geliştirme hakkında proje tabanlı ilerleyerek bilgi kazanmak amacıyla kişisel olarak takip etmeye ve geliştirmeye çalışacağım rehber/yol haritası ve uygulamalardan oluşan depo.
-  
+
 ---
 
 ## Yer Alabilecek Simgeler (Öneriler, Kaynaklar vb. İçin)
@@ -13,7 +13,7 @@
 | :memo:         | Makale/Belgeler     |
 | :movie_camera: | Video               |
 | :video_game:   | Oyun                |
-  
+
 ## **Kütüphaneler ve Araçlar:**
 - :hammer: [vcpkg](https://github.com/Microsoft/vcpkg): VC++ Paket Yönetim Aracı.
     - Çeşitli C ve C++ kütüphaneleri ile windows üzerinde geliştirme ekosistemi oluşturmakta yardımcı oluyor.
@@ -26,10 +26,17 @@
 - :books: [Vulkan](https://www.khronos.org/vulkan): Grafik kütüphanesi.
     - OpenGL'e göre daha düşük seviyeli bir kütüphane.
 
-- :books: [FreeType](https://www.freetype.org): Metin sahneleme kütüphanesi. 
-  
+- :books: [SFML](https://github.com/SFML/SFML): Basit, hızlı, çoklu platform destekli ve nesneye yönelik tasarlanmış multimedya programlama arabirimi.
+    - Başlangıç aşaması ve 2B için OpenGL ve Vulkan'a göre başlaması ve kullanması daha kolay olduğu için tavsiye edilebilir.
 
-  
+- :books: [SDL](https://www.libsdl.org/): Girdi/çıktı, grafik, ses donanımlarına düşük seviyede erişim sağlamayı hedefleyen çoklu platform destekli geliştirme kütüphanesi.
+    - Başlangıç aşaması ve 2B için OpenGL ve Vulkan'a göre başlaması ve kullanması daha kolay olduğu için tavsiye edilebilir.
+    - 3B geliştirme yapmak için OpenGL ile birlikte kolaylıkla kullanılabilir.
+
+- :books: [FreeType](https://www.freetype.org): Metin sahneleme kütüphanesi.
+
+
+
 ## **Faydalı Kaynaklar:**
 
 - :memo: [docs.gl](http://docs.gl/): OpenGL API belgeleri.
@@ -38,7 +45,7 @@
 
 
 ## Bölüm 1 - Başlangıç:
-  
+
 - [ ] [Metin Macera Oyunu]()
     - **Hedef:** Temel oyun döngüsünü öğrenmek/geliştirmek.
     - **Hedeflenen Öğrenim Çıktıları:**
