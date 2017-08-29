@@ -13,48 +13,48 @@
 
 ## Bölüm 1 - Başlangıç:
 
-- [ ] [Metin Macera Oyunu]()
+- [ ] [1.1 Metin Tabanlı Oyun]()
     - **Hedef:** Temel oyun döngüsünü öğrenmek/geliştirmek.
     - **Hedeflenen Öğrenim Çıktıları:**
         - Pencere oluşturabilmek
         - Metin sahneleyebilmek
 
-- [ ] [Adam Asmaca]()
+- [ ] [1.1 Adam Asmaca]()
     - **Hedef:** Önceki aşamanın üzerine basit görsellik eklemek.
     - **Hedeflenen Öğrenim Çıktıları:**
         - Kullanıcıdan girdi alabilmek
         - Basit şekiller çizdirebilmek
 
-- [ ] [XOX]()
+- [ ] [1.2 XOX]()
     - **Hedef:** Önceki aşamanın üzerine basit yapay zeka eklemek.
 
 
 
 ## Bölüm 2 - Öğrenme:
 
-- [ ] [Tetris-benzeri]()
+- [ ] [2.1 Tetris-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine basit oyun mekanikleri eklemek.
 
-- [ ] [Pong-benzeri]()
+- [ ] [2.2 Pong-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine basit matematik eklemek.
 
-- [ ] [Breakout-benzeri]()
+- [ ] [2.3 Breakout-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine tekrar yapmak.
 
-- [ ] [Asteroids-benzeri]()
+- [ ] [2.4 Asteroids-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine daha gelişmiş mekanikler eklemek.
 
-- [ ] [Pacman-benzeri]()
+- [ ] [2.5 Pacman-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine harita/seviye mekaniğini ekleyerek yapay zeka üzerine pratik yapmak.
 
 
 
 ## Bölüm 3 - Uygulama:
 
-- [ ] [Sokoban]()
+- [ ] [3.1 Sokoban]()
     - **Hedef:** Önceki aşamanın üzerine tekrar yapmak.
 
-- [ ] [Platform Oyunu]()
+- [ ] [3.2 Platform Oyunu]()
     - **Hedef:** Önceki aşamanın üzerine fizik mekanikleri ekleyerek tekrar yapmak.
 
 
