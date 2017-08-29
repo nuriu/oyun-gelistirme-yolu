@@ -19,14 +19,8 @@
         - Pencere oluşturabilmek
         - Metin sahneleyebilmek
 
-- [ ] [1.1 Adam Asmaca]()
-    - **Hedef:** Önceki aşamanın üzerine basit görsellik eklemek.
-    - **Hedeflenen Öğrenim Çıktıları:**
-        - Kullanıcıdan girdi alabilmek
-        - Basit şekiller çizdirebilmek
-
 - [ ] [1.2 XOX]()
-    - **Hedef:** Önceki aşamanın üzerine basit yapay zeka eklemek.
+    - **Hedef:** Önceki aşamanın üzerine basit görsellik ve yapay zeka eklemek.
 
 
 
