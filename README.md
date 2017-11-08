@@ -13,30 +13,27 @@
 
 ## Bölüm 1 - Başlangıç:
 
-- [ ] [1.1 Metin Tabanlı Oyun]()
+- [ ] [1.1 XOX]()
     - **Hedef:** Temel oyun döngüsünü öğrenmek/geliştirmek.
     - **Hedeflenen Öğrenim Çıktıları:**
         - Pencere oluşturabilmek
         - Metin sahneleyebilmek
 
-- [ ] [1.2 XOX]()
-    - **Hedef:** Önceki aşamanın üzerine basit görsellik ve yapay zeka eklemek.
-
 
 
 ## Bölüm 2 - Öğrenme:
 
-- [ ] [2.1 Tetris-benzeri]()
+- [ ] [2.1 Pong-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine basit oyun mekanikleri eklemek.
 
-- [ ] [2.2 Pong-benzeri]()
+- [ ] [2.2 Tetris-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine basit matematik eklemek.
 
 - [ ] [2.3 Breakout-benzeri]()
-    - **Hedef:** Önceki aşamanın üzerine tekrar yapmak.
+    - **Hedef:** Önceki aşamanın üzerine pratik/tekrar yapmak.
 
 - [ ] [2.4 Asteroids-benzeri]()
-    - **Hedef:** Önceki aşamanın üzerine daha gelişmiş mekanikler eklemek.
+    - **Hedef:** Önceki aşamanın üzerine daha gelişmiş mekanikler/fizikler eklemek.
 
 - [ ] [2.5 Pacman-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine harita/seviye mekaniğini ekleyerek yapay zeka üzerine pratik yapmak.
