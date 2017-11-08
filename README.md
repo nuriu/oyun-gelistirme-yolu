@@ -13,7 +13,7 @@
 
 ## Bölüm 1 - Başlangıç:
 
-- [ ] [1.1 XOX]()
+- [ ] [1.1 XOX](https://github.com/nuriu/ogy-oyunlar/tree/master/XOX)
     - **Hedef:** Temel oyun döngüsünü öğrenmek/geliştirmek.
     - **Hedeflenen Öğrenim Çıktıları:**
         - Pencere oluşturabilmek
