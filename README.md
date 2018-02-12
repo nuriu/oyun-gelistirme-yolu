@@ -13,29 +13,26 @@
 
 ## Bölüm 1 - Başlangıç:
 
-- [ ] [1.1 XOX](https://github.com/nuriu/ogy-oyunlar/tree/master/XOX)
-    - **Hedef:** Temel oyun döngüsünü öğrenmek/geliştirmek.
+- [ ] [1.1 Pong-benzeri]()
+    - **Hedef:** Temel oyun döngüsünü/mekaniğini öğrenmek/geliştirmek..
+
     - **Hedeflenen Öğrenim Çıktıları:**
         - Pencere oluşturabilmek
         - Metin sahneleyebilmek
-
+        - Şekil çizebilmek
 
 
 ## Bölüm 2 - Öğrenme:
-
-- [ ] [2.1 Pong-benzeri]()
-    - **Hedef:** Önceki aşamanın üzerine basit oyun mekanikleri eklemek.
-
-- [ ] [2.2 Tetris-benzeri]()
+- [ ] [2.1 Tetris-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine basit matematik eklemek.
 
-- [ ] [2.3 Breakout-benzeri]()
+- [ ] [2.2 Breakout-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine pratik/tekrar yapmak.
 
-- [ ] [2.4 Asteroids-benzeri]()
+- [ ] [2.3 Asteroids-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine daha gelişmiş mekanikler/fizikler eklemek.
 
-- [ ] [2.5 Pacman-benzeri]()
+- [ ] [2.4 Pacman-benzeri]()
     - **Hedef:** Önceki aşamanın üzerine harita/seviye mekaniğini ekleyerek yapay zeka üzerine pratik yapmak.
 
 
