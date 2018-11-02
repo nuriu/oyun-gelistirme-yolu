@@ -23,13 +23,13 @@
 
 ## Bölüm 2 - Öğrenme:
 
-- [ ] [2.1 Tetris-benzeri]()
-
-  - **Hedef:** Önceki aşamanın üzerine basit matematik eklemek.
-
-- [ ] [2.2 Breakout-benzeri]()
+- [ ] [2.1 Breakout-benzeri]()
 
   - **Hedef:** Önceki aşamanın üzerine pratik/tekrar yapmak.
+
+- [ ] [2.2 Tetris-benzeri]()
+
+  - **Hedef:** Önceki aşamanın üzerine basit matematik ve fizik eklemek.
 
 - [ ] [2.3 Asteroids-benzeri]()
 
