@@ -14,18 +14,29 @@
 
 - [x] [1.1 Pong-benzeri](https://github.com/nuriu/ogy-oyunlar/tree/master/pong-ish)
 
-  - **Hedef:** Temel oyun döngüsünü/mekaniğini öğrenmek/geliştirmek..
+  - **Hedef:** Temel oyun döngüsünü öğrenmek ve uygulamak.
 
   - **Hedeflenen Öğrenim Çıktıları:**
     - Pencere oluşturabilmek
     - Metin sahneleyebilmek
     - Şekil çizebilmek
+    - AABB çarpışma tanımlamasını gerçekleştirmek
 
 ## Bölüm 2 - Öğrenme:
 
 - [ ] [2.1 Breakout-benzeri]()
 
-  - **Hedef:** Önceki aşamanın üzerine pratik/tekrar yapmak.
+  - **Hedef:** Önceki aşamanın üzerine daha gelişmiş bir örnek ile pratik yapmak.
+
+  - **Hedeflenen Öğrenim Çıktıları:**
+    - Sahne / durum yönetimi
+    - Grafik varlıkları için sayfa yöntemini (SpriteSheet) kullanmak
+    - Algoritmik olarak düzen (Procedural Layout) oluşturmak
+    - Oyuncu can mekaniğini uygulamak
+    - Oyun seviye mekaniğini uygulamak
+    - Basit parçacık sistemi (Particle System) oluşturmak ve uygulamak
+    - Temel ses efektleri kullanmak
+    - Kalıcı oyun kayıt verisi oluşturmak ve kullanmak
 
 - [ ] [2.2 Tetris-benzeri]()
 
