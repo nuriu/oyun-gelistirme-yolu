@@ -24,7 +24,7 @@
 
 ## Bölüm 2 - Öğrenme:
 
-- [ ] [2.1 Breakout-benzeri]()
+- [ ] [2.1 Breakout-benzeri](https://github.com/nuriu/ogy-oyunlar/tree/master/breakout-ish)
 
   - **Hedef:** Önceki aşamanın üzerine daha gelişmiş bir örnek ile pratik yapmak.
 
