@@ -24,19 +24,16 @@
 
 ## Bölüm 2 - Öğrenme:
 
-- [ ] [2.1 Breakout-benzeri](https://github.com/nuriu/ogy-oyunlar/tree/master/breakout-ish)
+- [x] [2.1 Breakout-benzeri](https://github.com/nuriu/ogy-oyunlar/tree/master/breakout-ish)
 
   - **Hedef:** Önceki aşamanın üzerine daha gelişmiş bir örnek ile pratik yapmak.
 
   - **Hedeflenen Öğrenim Çıktıları:**
     - Sahne / durum yönetimi
     - Grafik varlıkları için sayfa yöntemini (SpriteSheet) kullanmak
-    - Algoritmik olarak düzen (Procedural Layout) oluşturmak
+    - Algoritmik olarak basit bir seviye (Procedural Layout) oluşturmak
     - Oyuncu can mekaniğini uygulamak
-    - Oyun seviye mekaniğini uygulamak
-    - Basit parçacık sistemi (Particle System) oluşturmak ve uygulamak
     - Temel ses efektleri kullanmak
-    - Kalıcı oyun kayıt verisi oluşturmak ve kullanmak
 
 - [ ] [2.2 Tetris-benzeri]()
 
