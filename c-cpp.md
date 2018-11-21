@@ -12,6 +12,8 @@
 
 - :books: [SFML](https://github.com/SFML/SFML): Basit, hızlı, çoklu platform destekli ve nesneye yönelik tasarlanmış multimedya programlama arabirimi.
     - Başlangıç aşaması ve 2B için OpenGL ve Vulkan'a göre başlaması ve kullanması daha kolay olduğu için tavsiye edilebilir.
+        
+        - :books: [sfml-engine](https://github.com/nuriu/sfml-engine): SFML ile geliştirme yapmak için kullanılabilir CMake tabanlı proje.
 
 - :books: [SDL](https://www.libsdl.org/): Girdi/çıktı, grafik, ses donanımlarına düşük seviyede erişim sağlamayı hedefleyen çoklu platform destekli geliştirme kütüphanesi.
     - Başlangıç aşaması ve 2B için OpenGL ve Vulkan'a göre başlaması ve kullanması daha kolay olduğu için tavsiye edilebilir.
